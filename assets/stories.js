@@ -1,6 +1,6 @@
 export default [
-  "Klik Fa",
+  "Klik Next Maw",
   "Klik Lagi Wkwkwk",
-  "Klik Terus Faaa",
-  "Aku sayang kamu!"
+  "Klik Terus Maww",
+  "Ai lop yu maww xixi!"
 ];

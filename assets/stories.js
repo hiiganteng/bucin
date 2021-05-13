@@ -1,6 +1,6 @@
 export default [
-  "Klik Next Maw",
+  "Klik Next Neinn",
   "Klik Lagi Wkwkwk",
-  "Klik Terus Maww",
-  "Ai lop yu maww xixi!"
+  "Klik Terus Nein",
+  "Ai lop yuu Nein xixi!"
 ];

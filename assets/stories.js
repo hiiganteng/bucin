@@ -1,6 +1,8 @@
 export default [
-  "Klik Next Neinn",
+  "Klik Next Dinn ,
   "Klik Lagi Wkwkwk",
-  "Klik Terus Nein",
-  "Ai lop yuu Nein xixi!"
+  "Klik Terus Nai ",
+  "HAPPY BIRTHDAY DINITAAAAA!"
+  "Usa Tengkaran, Nurut Yo Amaa Ortu"
+  "Wkwkwk Sudahi Virtual mu Mari Mensad Bersama ku"
 ];

@@ -1,5 +1,5 @@
 export default [
-  "Klik Next Dinn ,
+  "Klik Next Dinn",
   "Klik Lagi Wkwkwk",
   "Klik Terus Nai ",
   "HAPPY BIRTHDAY DINITAAAAA!"

@@ -1,5 +1,5 @@
 export default {
-  nicknames: ["Dinitaaa "],
+  nicknames: ["Nendennnn"],
   greetings: {
     evening: "Selamat Pagi",
     afternoon: "Selamat Sore",

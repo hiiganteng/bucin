@@ -1,6 +1,6 @@
 export default [
   "Your Name Fitri Evilia ?",
   "Hello Vili",
-  "Klik Vill Eeeeeeee",
+  "Klik Vill Eeeee",
   "Special Web For Epill"
 ];

@@ -1,6 +1,6 @@
 // prettier-ignore
 export default [
-    { author: "Anugrah Pratama", quotes: "Halo Prenjon " },
+    { author: "Anugrah Pratama", quotes: "Hallo Prenjon " },
     { author: "Anugrah Pratama", quotes: "berjanjilah untuk terus bersamaku sekarang,esok dan selamanya" },
     { author: "Anugrah Pratama", quotes: "Denganmu, begadangku menjadi ada artinya meski hanya sebatas chatinggan aja" },
     { author: "Anugrah Pratama", quotes: "I love you." },
